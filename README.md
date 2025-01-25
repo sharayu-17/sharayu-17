@@ -1,3 +1,5 @@
+<img src="data_scene_github.gif" height="80%">
+
 <h1 align="center">Hi there👋, I'm Sharayu Sanjay Sathe</h1>
 <h3 align="center">A Results-oriented Data Analyst and Business Intelligence Enthusiast</h3>
 
@@ -15,8 +17,6 @@
 - 💬 Ask me about **Data Analytics, Business Intelligence, and Statistical Modeling**
 
 - 📫 How to reach me: **sharayussathe@gmail.com**
-
-- 📄 Check out my [Resume](#)
 
 ---
 
@@ -66,6 +66,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/>
   </a>
 </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharayu-17&color=blue&style=flat" alt="profile_views" /> </p>
 
 <!--
 **sharayu-17/sharayu-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -80,4 +82,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📄 Check out my [Resume](#)
 -->
