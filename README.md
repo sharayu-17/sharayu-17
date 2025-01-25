@@ -1,4 +1,6 @@
-<img src="data_scene_github.gif" height="80%">
+<p align="center">
+  <img src="data_scene_github.gif" alt="GitHub Banner" width="100%" style="max-height: 100px; object-fit: cover;">
+</p>
 
 <h1 align="center">Hi there👋, I'm Sharayu Sanjay Sathe</h1>
 <h3 align="center">A Results-oriented Data Analyst and Business Intelligence Enthusiast</h3>
@@ -6,7 +8,7 @@
 <img src=
   "https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif" align="right" alt="Coding" width="400" >
 
-- 🔭 **Recent Graduate** in Business Analytics and Artificial Intelligence at **The University of Texas at Dallas** 
+- 🔭 **Recent Graduate** in Business Analytics and Artificial Intelligence from **The University of Texas at Dallas** 
 
 - 💼 Experienced in **Data Visualization, ETL Workflows, and Data Governance**
 
