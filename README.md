@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data_scene_github.gif" alt="GitHub Banner" width="100%" style="max-height: 100px; object-fit: cover;">
+  <img src="data-analysis-banner-vector.jpg" alt="GitHub Banner" width="100%" style="max-height: 75px; object-fit: cover;">
 </p>
 
 <h1 align="center">Hi there👋, I'm Sharayu Sanjay Sathe</h1>
@@ -14,7 +14,7 @@
 
 - 📊 Proficient in **SQL, Power BI, Tableau, Python, and AI/ML**
 
-- 🌱 Currently exploring **Big Data Tools** and advanced **Predictive Modeling**
+- 🌱 Currently exploring **Big Data Tools, GenAI and LLMs** 
 
 - 💬 Ask me about **Data Analytics, Business Intelligence, and Statistical Modeling**
 
@@ -69,7 +69,12 @@
   </a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharayu-17&color=blue&style=flat" alt="profile_views" /> </p>
+<p align="center">
+  <img src="data_scene_github.gif" alt="gif" width="100%" style="max-height: 100px; object-fit: cover;">
+</p>
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharayu-17&color=blue&style=flat" alt="profile_views" /> </p>
 
 <!--
 **sharayu-17/sharayu-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
